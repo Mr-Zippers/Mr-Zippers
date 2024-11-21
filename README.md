@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... on any new project on smart contracts, solidity and Blockchain Development
 - 📫 How to reach me ... deleajayii0604@gmail.com
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... I'm a 41yr old man new to coding and anything programming. This is an ecxiting journey for me and looking forward to learning new things, meeting wonderful people, and becoming a guru. wish me luck
+- ⚡ Fun fact: ... I'm a 41yr old man new to coding and anything programming. This is an ecxiting journey for me and I'm looking forward to learning new things, meeting wonderful people, and becoming a guru. wish me luck
   
 
 <!---
